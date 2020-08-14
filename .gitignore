@@ -1,0 +1,4 @@
+*.hyper
+/examples/data/
+doc
+tableauhyperapi/

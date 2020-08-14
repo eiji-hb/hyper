@@ -1,0 +1,6 @@
+recursive-include tableauhyperapi/bin *
+recursive-include examples *
+recursive-include doc *
+include LICENSE.txt
+include HYPER_API_OSS_disclosure.txt
+include NOTICES.txt
