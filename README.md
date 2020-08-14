@@ -16,3 +16,4 @@ Using the Hyper API developers and administrators can:
 # hyperTOcsv
 # hyperTOcsv
 # hyperTOcsv
+# hyper
